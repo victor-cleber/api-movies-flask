@@ -1,0 +1,5 @@
+venv
+Pipfile
+.vscode
+api/__pycache__
+api/database.db
